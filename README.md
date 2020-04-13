@@ -7,3 +7,6 @@ Environment Setup:
  After ensuring the framework version, run the setup.exe file. 
  
 Youtube Video Link:  https://youtu.be/8fI-tcmE9EM
+
+
+Main Code is in "Form1.cs" file, it is a winform application, written in C#.
